@@ -3,10 +3,10 @@
 import sys
 
 print()
-print('**************************************************************');
-print('********** Working With User Input Programmatically **********');
-print('**************************************************************');
-print();
+print('**************************************************************')
+print('********** Working With User Input Programmatically **********')
+print('**************************************************************')
+print()
 
 print('===== Input from Command Line Args =====')
 if len(sys.argv) > 1:
